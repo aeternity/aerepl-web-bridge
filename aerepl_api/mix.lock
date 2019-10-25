@@ -3,7 +3,7 @@
   "aecuckoo": {:git, "https://github.com/aeternity/aecuckoo.git", "a1bff574dd0a965d3f9f2e23f980bbead8b4638d", [ref: "a1bff574dd0a965d3f9f2e23f980bbead8b4638d"]},
   "aecuckooprebuilt": {:git, "https://github.com/aeternity/cuckoo-prebuilt.git", "90afb699dc9cc41d033a7c8551179d32b3bd569d", [ref: "90afb699dc9cc41d033a7c8551179d32b3bd569d"]},
   "aeminer": {:git, "https://github.com/aeternity/aeminer.git", "0a82f0fd90fe5fe1f392d58b3cf98af08862f075", [ref: "0a82f0f"]},
-  "aerepl": {:git, "https://github.com/radrow/aerepl", "847054c0eccfb3a5bc6de16efdefc9d1f1f081bd", []},
+  "aerepl": {:git, "https://github.com/radrow/aerepl", "7d38958136c50fc19de4d9c50553724693e3f613", []},
   "aeserialization": {:git, "https://github.com/aeternity/aeserialization.git", "47aaa8f5434b365c50a35bfd1490340b19241991", [ref: "47aaa8f"]},
   "aesophia": {:git, "https://github.com/radrow/aesophia.git", "15744ecfa3b0c8c9b79b8624f5f7729c9821c409", [branch: "repl-branch"]},
   "aestratum_lib": {:git, "https://github.com/aeternity/aestratum_lib.git", "96ffd9a36fab0d65640e87000e8466458276b8f3", [ref: "96ffd9a"]},

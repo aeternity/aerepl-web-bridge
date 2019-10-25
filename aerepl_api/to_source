@@ -1,0 +1,1 @@
+export ERL_LIBS=$ERL_LIBS:$(pwd)/deps/aerepl/_build/default/lib

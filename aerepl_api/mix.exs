@@ -37,7 +37,11 @@ defmodule AereplApi.MixProject do
       {:gettext, "~> 0.11"},
       {:jason, "~> 1.0"},
       {:plug_cowboy, "~> 2.0"},
-      {:aerepl, git: "https://github.com/radrow/aerepl", app: false, compile: "make aerepl; ./rebar3 compile", manager: :make}
+      {:aerepl,
+       git: "https://github.com/radrow/aerepl",
+       app: false,
+       compile: "make aerepl; ./rebar3 compile",
+       manager: :make}
     ]
   end
 end

@@ -1,5 +1,7 @@
 # AereplApi
 
+Before running the app make sure to source the file `to_source`
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
